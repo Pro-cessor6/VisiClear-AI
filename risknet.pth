@@ -1,1 +1,0 @@
-torch.save(model.state_dict(), "models/risknet.pth")
