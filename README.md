@@ -1,6 +1,6 @@
-ClearVisionAI
+VisiClear AI
 
-ClearVisionAI is an AI-based system designed to reduce the risk of visually triggered epileptic seizures by detecting rapid and potentially harmful screen changes in real time.
+VisiClear AI is an AI-based system designed to reduce the risk of visually triggered epileptic seizures by detecting rapid and potentially harmful screen changes in real time.
 
 Disclaimer
 
@@ -27,8 +27,8 @@ The SafetyEngine stabilizes and filters the output.
 Overlay Output
 A real-time risk indicator is displayed on screen.
 Installation
-git clone https://github.com/YOUR_USERNAME/ClearVisionAI.git
-cd ClearVisionAI
+git clone https://github.com/Pro-cessor6/VisiClear-AI.git
+cd VisiClear AI
 pip install -r requirements.txt
 Usage
 python main.py
